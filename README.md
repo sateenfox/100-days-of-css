@@ -1,7 +1,7 @@
 # 100 Days of CSS Challenge
 
 ## Introduction
-This project is directly inspired by the [100 Days of CSS Challenge](https://100dayscss.com/) . I'm not sure what to expect in the future, as each new challenge is posted every morning, but I'm excited nonetheless!
+This project is directly inspired by the [100 Days of CSS Challenge](https://100dayscss.com/) . I will be recreating the code snippets for each day, but with my own twist on each one as I see fit.
 
 ## Challenges
 1. Title
